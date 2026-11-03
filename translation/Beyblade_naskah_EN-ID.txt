@@ -1,0 +1,1334 @@
+
+######## MENUBIN.GRP
+[MENU 0x000C0]
+EN: I'm sorry, but you cannot / use that name.
+ID: Maaf, kamu tidak bisa / memakai nama itu.
+
+[MENU 0x000EC]
+EN: I see. Your name is / zz.
+ID: Oh, begitu. Namamu / zz.
+
+[MENU 0x00104]
+EN: Now, tell me your name.
+ID: Sekarang, siapa namamu?
+
+[MENU 0x0011C]
+EN: I'll give you a Beyblade. / Pick the one you like.
+ID: Kuberi kamu Beyblade. / Pilih yang kamu suka.
+
+[MENU 0x00150]
+EN: You will now return to the / title screen.
+ID: Kamu akan kembali ke / layar judul.
+
+[MENU 0x0017C]
+EN: Nice to see you again. / Oh, you want to load data.
+ID: Senang bertemu lagi. / Oh, kamu mau memuat data.
+
+[MENU 0x001B0]
+EN: Data has been registered to / Player 1. Let the battle / resume.
+ID: Data didaftarkan ke / Pemain 1. Silakan lanjut / bertarung.
+
+[MENU 0x001F0]
+EN: Input is now complete. / Enjoy the battle.
+ID: Input sudah selesai. / Selamat bertarung!
+
+[MENU 0x0021C]
+EN: on MEMORY CARD. / Beyblade requires 1 block / of free space to save data.
+ID: di MEMORY CARD. Beyblade / butuh 1 blok ruang kosong / untuk simpan data.
+
+[MENU 0x00264]
+EN: MEMORY CARD in / MEMORY CARD slot 1, reset, / or switch off the console.
+ID: MEMORY CARD di / MEMORY CARD slot 1, reset, / atau mematikan konsol.
+
+[MENU 0x002AC]
+EN: Loaded data was not / registered.
+ID: Data muatan tidak / didaftarkan.
+
+[MENU 0x002CC]
+EN: Register complete. / Let the battle resume.
+ID: Pendaftaran selesai. / Mari lanjut bertarung!
+
+[MENU 0x002F8]
+EN: No Beyblade save data / present on MEMORY CARD in / MEMORY CARD slot 1.
+ID: Tidak ada data Beyblade di / MEMORY CARD pada / MEMORY CARD slot 1.
+
+[MENU 0x0033C]
+EN: Load failed.
+ID: Gagal dimuat.
+
+[MENU 0x0034C]
+EN: Load successful.
+ID: Berhasil dimuat.
+
+[MENU 0x00360]
+EN: Loading data. Do not remove / MEMORY CARD in / MEMORY CARD slot 1, reset,
+ID: Memuat data. Jangan cabut / MEMORY CARD di / MEMORY CARD slot 1, reset,
+
+[MENU 0x003A8]
+EN: Save failed.
+ID: Gagal disimpan.
+
+[MENU 0x003B8]
+EN: Save successful.
+ID: Berhasil disimpan.
+
+[MENU 0x003CC]
+EN: Saving data. Do not remove / MEMORY CARD in / MEMORY CARD slot 1, reset,
+ID: Menyimpan data. Jangan / cabut MEMORY CARD di / MEMORY CARD slot 1, reset,
+
+[MENU 0x00414]
+EN: MEMORY CARD is unformatted.
+ID: MEMORY CARD belum diformat.
+
+[MENU 0x00430]
+EN: Format failed.
+ID: Gagal diformat.
+
+[MENU 0x00440]
+EN: Format successful.
+ID: Berhasil diformat.
+
+[MENU 0x00454]
+EN: MEMORY CARD is not working.
+ID: MEMORY CARD bermasalah.
+
+[MENU 0x00470]
+EN: I'm sorry... but this / MEMORY CARD is not working.
+ID: Maaf... tapi MEMORY CARD / ini tidak berfungsi.
+
+[MENU 0x004A4]
+EN: Insufficient space / on MEMORY CARD. / Beyblade requires 1 block
+ID: Ruang kosong tidak cukup / di MEMORY CARD. / Beyblade butuh 1 blok
+
+[MENU 0x004E4]
+EN: MEMORY CARD is not inserted / into the MEMORY CARD slot 1. / Insert the MEMORY CARD into / MEMORY CARD slot 1.
+ID: MEMORY CARD belum dipasang / pada MEMORY CARD slot 1. / Pasang MEMORY CARD ke / MEMORY CARD slot 1.
+
+[MENU 0x00550]
+EN: All unsaved data will be lost. / Do you wish to exit the game?
+ID: Semua data yang belum / disimpan akan hilang. / Keluar dari game?
+
+[MENU 0x00590]
+EN: Formatting.Please do not / remove the MEMORY CARD.
+ID: Memformat. Jangan cabut / MEMORY CARD.
+
+[MENU 0x005C4]
+EN: Do you wish to save?
+ID: Ingin menyimpan data?
+
+[MENU 0x005DC]
+EN: Uh-oh! There is data for a / Blader with a different name / on this MEMORY CARD. Do you / wish to overwrite?
+ID: Wah! Ada data Blader lain / dengan nama berbeda di / MEMORY CARD ini. Mau / menimpanya?
+
+[MENU 0x00644]
+EN: Uh-oh! There is data for a / Blader with the same name on / this MEMORY CARD. Do you / wish to overwrite?
+ID: Wah! Ada data Blader yang / bernama sama di MEMORY / CARD ini. Mau menimpanya?
+
+[MENU 0x006A8]
+EN: There is data already / registered to a Blader with / a different name. Do you / wish to overwrite?
+ID: Sudah ada data terdaftar / untuk Blader dengan nama / berbeda. Mau menimpanya?
+
+[MENU 0x00708]
+EN: There is data already / registered to a Blader with / the same name. Do you wish / to overwrite?
+ID: Sudah ada data terdaftar / untuk Blader bernama sama. / Mau menimpanya?
+
+[MENU 0x00764]
+EN: The MEMORY CARD in / MEMORY CARD slot 1 is / unformatted. Do you want to / format it?
+ID: MEMORY CARD di slot 1 / belum diformat. Mau / memformatnya sekarang?
+
+[MENU 0x007B8]
+EN: Nothing is registered, since / the Beyblade has been / broken. Assemble a Beyblade / in Customize.
+ID: Tidak ada yang terdaftar / karena Beyblade sudah / rusak. Rakit Beyblade di / Customize.
+
+[MENU 0x0081C]
+EN: This is the Select Mode.
+ID: Ini adalah Mode Pilih.
+
+[MENU 0x00838]
+EN: Options. You can switch / sound options, between / stereo and mono.
+ID: Opsi. Ubah pengaturan suara / antara stereo dan mono.
+
+[MENU 0x00878]
+EN: You can save and load data / for Player 1 or 2 using / MEMORY CARD slot 1 only.
+ID: Simpan dan muat data / Pemain 1 atau 2 hanya / lewat MEMORY CARD slot 1.
+
+[MENU 0x008C4]
+EN: You can customize your / Beyblade. You also can buy / parts here.
+ID: Kamu bisa merakit Beyblade / dan membeli part di sini.
+
+[MENU 0x00904]
+EN: This is Free Battle. It's / perfect for competing with / your friends.
+ID: Ini Free Battle. Cocok / untuk adu skill dengan / teman-temanmu.
+
+[MENU 0x00948]
+EN: You can fight in / the tournament.
+ID: Kamu bisa bertarung / di turnamen.
+
+[MENU 0x0096C]
+EN: Select a Beyblade to use for / the battle.
+ID: Pilih Beyblade untuk / dipakai bertarung.
+
+[MENU 0x00998]
+EN: Select a Blader to fight / in the battle.
+ID: Pilih Blader yang akan / bertarung.
+
+[MENU 0x009C0]
+EN: Next, select a Blader to be / controlled by the computer.
+ID: Lalu, pilih Blader yang / dikendalikan komputer.
+
+[MENU 0x009F8]
+EN: Player 1, select a Blader / to fight in the battle.
+ID: Pemain 1, pilih Blader / untuk bertarung.
+
+[MENU 0x00A2C]
+EN: Press the } button on / Controller 1 to return to / Select Mode.
+ID: Tekan tombol } di / Controller 1 untuk kembali / ke Mode Pilih.
+
+[MENU 0x00A6C]
+EN: Press the START button / on Controller 2 for the two / player game.
+ID: Tekan START di Controller 2 / untuk bermain berdua.
+
+[MENU 0x00AAC]
+EN: From now, use controller 2 / to customize.
+ID: Sekarang pakai controller 2 / untuk merakit.
+
+[MENU 0x00AD8]
+EN: Player 2 wants to customize?
+ID: Pemain 2 mau merakit?
+
+[MENU 0x00AF8]
+EN: Player 1 wants to customize?
+ID: Pemain 1 mau merakit?
+
+[MENU 0x00B18]
+EN: Player 2 data will be saved / on the MEMORY CARD.
+ID: Data Pemain 2 akan disimpan / di MEMORY CARD.
+
+[MENU 0x00B48]
+EN: Player 1 data will be saved / on the MEMORY CARD.
+ID: Data Pemain 1 akan disimpan / di MEMORY CARD.
+
+[MENU 0x00B78]
+EN: Which player do you wish / to register the data to?
+ID: Data ini mau didaftarkan / ke pemain yang mana?
+
+[MENU 0x00BAC]
+EN: Which player wants to save? / Insert a MEMORY CARD into / MEMORY CARD slot 1, / and choose.
+ID: Siapa yang mau menyimpan? / Pasang MEMORY CARD ke / MEMORY CARD slot 1, / lalu pilih.
+
+[MENU 0x00C04]
+EN: Which player's Blader wants / to customize?
+ID: Blader pemain mana yang / mau dirakit?
+
+[MENU 0x00C30]
+EN: Loads the Blader and / the Beyblade data here.
+ID: Memuat data Blader dan / Beyblade di sini.
+
+[MENU 0x00C60]
+EN: Saves the Blader and / the Beyblade data here.
+ID: Menyimpan data Blader dan / Beyblade di sini.
+
+[MENU 0x00C90]
+EN: You can change sound / settings. Select either mono / or stereo.
+ID: Kamu bisa mengubah suara. / Pilih mono atau stereo.
+
+[MENU 0x00D28]
+EN: I will now input your data. / Please answer my questions.
+ID: Aku akan mencatat datamu. / Tolong jawab pertanyaanku.
+
+[MENU 0x00D60]
+EN: Hello, I'm Kenny. / Nice to meet you.
+ID: Halo, aku Kenny. / Salam kenal ya!
+
+[MENU 0x00D84]
+EN: Input complete.
+ID: Input selesai.
+
+[MENU 0x00D94]
+EN: Tell me your gender.
+ID: Apa jenis kelaminmu?
+
+[MENU 0x01114]
+EN: The crowd is going wild, but / the tournament will now close!
+ID: Penonton bersorak heboh, / tapi turnamen ditutup!
+
+[MENU 0x01150]
+EN: For the last time, applause to / the champion!!
+ID: Sekali lagi, tepuk tangan / untuk sang juara!!
+
+[MENU 0x01180]
+EN: Although you've become / the champion, keep up your / hard work!
+ID: Meski sudah jadi juara, / terus berlatih keras ya!
+
+[MENU 0x011C0]
+EN: Well done, zz!
+ID: Hebat, zz!
+
+[MENU 0x011D0]
+EN: Mr. Chairman, please!
+ID: Pak Ketua, silakan!
+
+[MENU 0x011E8]
+EN: The chairman of BBA will / present the prize to / the winner!!
+ID: Ketua BBA akan menyerahkan / hadiah kepada pemenang!!
+
+[MENU 0x01224]
+EN: xx won this tournament!!
+ID: xx menang turnamen ini!!
+
+[MENU 0x01240]
+EN: We have a champion!
+ID: Kita punya juara!
+
+[MENU 0x01254]
+EN: Who will be the champion?
+ID: Siapa juaranya nanti?
+
+[MENU 0x01270]
+EN: These 2 made it to the finals!
+ID: Dua orang ini lolos final!
+
+[MENU 0x01290]
+EN: The next battle will determine / the champion!
+ID: Pertarungan berikutnya / akan menentukan juara!
+
+[MENU 0x012C0]
+EN: We have 1 more battle left / in this exciting tournament!
+ID: Tinggal 1 pertarungan lagi / dalam turnamen seru ini!
+
+[MENU 0x012F8]
+EN: We will start with these two!
+ID: Kita mulai dari dua ini!
+
+[MENU 0x01318]
+EN: Next is the semifinals! / Only 2 more battles left!
+ID: Berikutnya semifinal! / Tinggal 2 pertarungan lagi!
+
+[MENU 0x0134C]
+EN: These two will fight in / the next battle!
+ID: Dua ini akan bertarung / di babak berikutnya!
+
+[MENU 0x01378]
+EN: Do your best to win the / championship next time!
+ID: Berjuanglah jadi juara / lain kali!
+
+[MENU 0x013A8]
+EN: Too bad you didn't win, / but you did good!
+ID: Sayang tidak menang, / tapi kamu hebat!
+
+[MENU 0x013D4]
+EN: Too bad. You need to upgrade / the Beyblade.
+ID: Sayang. Tingkatkan dulu / Beyblade-mu.
+
+[MENU 0x01400]
+EN: Your battle will start soon.
+ID: Pertarunganmu segera mulai.
+
+[MENU 0x01420]
+EN: It will only be a temporary / measure, so the Beyblade will / lose balance.
+ID: Ini hanya sementara, jadi / Beyblade akan kehilangan / keseimbangan.
+
+[MENU 0x01468]
+EN: Well done! But the Beyblade / seems to have been damaged. / Would you like to use my / tools?
+ID: Hebat! Tapi Beyblade-mu / sepertinya rusak. Mau / pakai peralatanku?
+
+[MENU 0x014C0]
+EN: The next battle will determine / the last finalist! The battle / will start in 5 minutes!
+ID: Pertarungan berikutnya akan / menentukan finalis akhir! / Mulai 5 menit lagi!
+
+[MENU 0x01518]
+EN: The one to advance to / the finals is zz!!
+ID: Yang lolos ke final / adalah zz!!
+
+[MENU 0x01544]
+EN: We now have two of the best / 4's! You may want to continue / on, but it's lunch time!
+ID: Sudah ada 2 dari 4 terbaik! / Ingin lanjut? Tapi ini / saatnya makan siang!
+
+[MENU 0x01598]
+EN: We have a semifinalist!
+ID: Kita punya semifinalis!
+
+[MENU 0x015B0]
+EN: Who are the next Bladers? / Who? Who? Before that, we will / check the stadium!
+ID: Siapa Blader berikutnya? / Siapa ya? Sebelum itu, / kita periksa stadion dulu!
+
+[MENU 0x015FC]
+EN: Here is the winner! / This was again a heated / battle!
+ID: Pemenangnya! / Lagi-lagi pertarungan / yang panas!
+
+[MENU 0x01630]
+EN: We will take a break before / the next battle! You may want / to go to the restroom now!
+ID: Istirahat dulu sebelum / pertarungan berikutnya! / Silakan ke toilet sekarang!
+
+[MENU 0x01688]
+EN: The winner is... / zz! / Well done!
+ID: Pemenangnya... / zz! / Hebat!
+
+[MENU 0x016A8]
+EN: Let's start the next battle! / Please wait for the Bladers / to appear!
+ID: Mari mulai pertarungan / berikutnya! Tunggu para / Blader muncul!
+
+[MENU 0x016EC]
+EN: Here is the winner! / The battles are getting / intense!
+ID: Pemenangnya! / Pertarungan makin / sengit!
+
+[MENU 0x01724]
+EN: Before starting the next / battle, we will check the / stadium. Please wait!
+ID: Sebelum pertarungan / berikutnya, kita periksa / stadion. Mohon tunggu!
+
+[MENU 0x01770]
+EN: We have a winner! / Great battle!
+ID: Ada pemenang! / Laga yang hebat!
+
+[MENU 0x01790]
+EN: The first battle will be held / by these two!
+ID: Pertarungan pertama: / dua orang ini!
+
+[MENU 0x017BC]
+EN: Many Bladers have come from / all over the world!
+ID: Banyak Blader datang dari / seluruh dunia!
+
+[MENU 0x017EC]
+EN: We will now announce / the Tournament!
+ID: Turnamen akan segera / diumumkan!
+
+[MENU 0x01814]
+EN: Thank you, Mr. Chairman! / Ladies and gentlemen, / are YOU READY?
+ID: Terima kasih, Pak Ketua! / Hadirin sekalian, / APAKAH KALIAN SIAP?
+
+[MENU 0x01854]
+EN: Everyone please take with you, / the Bladers' spirit in your / fun and intense battles.
+ID: Bawalah semangat Blader di / dalam pertarungan yang seru / dan sengit ini.
+
+[MENU 0x018A8]
+EN: We'll begin with a word from / the chairman of BBA!
+ID: Kita mulai dengan sambutan / Ketua BBA!
+
+[MENU 0x018DC]
+EN: The long-awaited Championship / Battle will now start!
+ID: Pertarungan Juara yang / dinanti-nanti dimulai!
+
+[MENU 0x01948]
+EN: She
+ID: Dia
+
+[MENU 0x01960]
+EN: Got a / %s / %s
+ID: Dapat / %s / %s
+
+[MENU 0x0196C]
+EN: Earned / %s / Bey points.
+ID: Dapat / %s / poin Bey.
+
+[MENU 0x01984]
+EN: Beyblade HP / is / %s points. / Repair it?
+ID: HP Beyblade / adalah / %s poin. / Perbaiki?
+
+[MENU 0x019AC]
+EN: Beyblade has / recovered to / %s points.
+ID: Beyblade pulih / menjadi / %s poin.
+
+[MENU 0x019D4]
+EN: Attack Power / decreased / %s points.
+ID: Daya Serang / turun / %s poin.
+
+[MENU 0x019F8]
+EN: Defense Power / decreased / %s points.
+ID: Pertahanan / turun / %s poin.
+
+[MENU 0x01A1C]
+EN: Endurance / Power / decreased / %s points.
+ID: Stamina / turun / %s poin.
+
+
+######## CSTMBIN.GRP
+[CSTM 0x00058]
+EN: Sets the current Beyblade / in a folder, and ends / Customize.
+ID: Simpan Beyblade ini ke / folder lalu akhiri / Customize.
+
+[CSTM 0x00094]
+EN: You can change the current / Beyblade with the one in / a different folder.
+ID: Ganti Beyblade ini dengan / yang ada di folder lain.
+
+[CSTM 0x000DC]
+EN: You can buy Beyblade parts. / Don't waste your Bey points!
+ID: Beli part Beyblade di sini. / Jangan boros poin Bey-mu!
+
+[CSTM 0x00118]
+EN: You can choose a name for / the Beyblade. However, you / can't choose "Unregistered".
+ID: Beri nama untuk Beyblade. / Tapi kamu tidak bisa / memakai "Belum Daftar".
+
+[CSTM 0x0016C]
+EN: You can see the status. / It's important to fully / grasp the meaning of / the data.
+ID: Lihat status Beyblade. / Pahami arti datanya / dengan baik, ya.
+
+[CSTM 0x001BC]
+EN: You can select a Launcher. / A winder comes with it. / Choose 1 for each Beyblade.
+ID: Pilih Launcher. Winder / sudah termasuk. Pilih 1 / untuk tiap Beyblade.
+
+[CSTM 0x0020C]
+EN: You can select a Blade Base. / However, if it comes with a / Spin Gear, you cannot select / a Spin Gear.
+ID: Pilih Blade Base. Kalau / sudah ada Spin Gear, kamu / tidak bisa memilih Spin / Gear lagi.
+
+[CSTM 0x00270]
+EN: You can select a Spin Gear. / However, depending on the / Blade Base, Spin Gear may / already be attached.
+ID: Pilih Spin Gear. Tergantung / Blade Base-nya, Spin Gear / mungkin sudah terpasang.
+
+[CSTM 0x002D8]
+EN: You can select a Weight / Disk here.
+ID: Pilih Weight Disk / di sini.
+
+[CSTM 0x002FC]
+EN: You can select an Attack / Ring here.
+ID: Pilih Attack Ring / di sini.
+
+[CSTM 0x00320]
+EN: You can select a Bit Chip / here.
+ID: Pilih Bit Chip / di sini.
+
+[CSTM 0x00340]
+EN: Equipped with a power gear. / It allows super speed / movement and creates / high spinning force.
+ID: Dilengkapi power gear untuk / gerak super cepat dan / putaran yang kuat.
+
+[CSTM 0x0039C]
+EN: This Launcher generates high / spinning force with its / power gear, leading to / better endurance. 
+ID: Launcher ini menghasilkan / putaran kuat berkat power / gear sehingga lebih tahan / lama.
+
+[CSTM 0x003FC]
+EN: With its power gear, it / creates a high spinning / force. Check your spinning / force in the display that / shows the number of spins.
+ID: Power gear menghasilkan / putaran kuat. Cek kekuatan / putaranmu pada layar / jumlah putaran.
+
+[CSTM 0x0047C]
+EN: Pulling the ripcord slides / the lock portion backwards, / leading to a blast off.
+ID: Tarik ripcord untuk / menggeser kunci ke belakang / lalu meluncur!
+
+[CSTM 0x004CC]
+EN: This Launcher has a / Laser Sight. A beam lights / the stadium, and enables you / to launch at the target.
+ID: Launcher ini punya Laser / Sight. Sinarnya menerangi / stadion agar kamu bisa / membidik target.
+
+[CSTM 0x00534]
+EN: This Launcher has a grip to / make a steady launch with / Reverse Launcher for left / rotation.
+ID: Launcher ini punya grip / agar luncuran stabil dengan / Reverse Launcher untuk / putaran kiri.
+
+[CSTM 0x00590]
+EN: This Launcher has a grip to / make the launching with Ez / Launcher steady.
+ID: Launcher ini punya grip / agar luncuran Ez Launcher / lebih stabil.
+
+[CSTM 0x005D8]
+EN: Launcher for left rotation. / Attacking with a backspin / greatly increases the attack / power.
+ID: Launcher putaran kiri. / Menyerang dengan putaran / balik sangat menambah / daya serang.
+
+[CSTM 0x00634]
+EN: Basic Launcher. It supports / all types of launching.
+ID: Launcher dasar. Mendukung / semua jenis peluncuran.
+
+[CSTM 0x00668]
+EN: It's a combination type / parts that has a change / gimmick, which allows the / switch between attack mode / and endurance mode.
+ID: Part tipe kombinasi dengan / gimmick perubahan, bisa / berganti antara mode / serangan dan mode stamina.
+
+[CSTM 0x006E4]
+EN: It is equipped with a rubber / axis that grips on to the / surface of the stadium, / significantly improving the / speed. It has narrow axis / width to avoid being knocked / off the stadium.
+ID: Dilengkapi poros karet yang / mencengkeram permukaan / stadion sehingga kecepatan / meningkat pesat. Lebar / poros yang sempit mencegah / terlempar dari stadion.
+
+[CSTM 0x00798]
+EN: Original Blade Base built / for transforming Beyblade.
+ID: Blade Base orisinal untuk / Beyblade transformasi.
+
+[CSTM 0x007D0]
+EN: An enemy attack enables the / jumping system, and it makes / an intense jump attack on / the enemy. In addition, the / Blade Base has an Attack / Ring function.
+ID: Serangan lawan mengaktifkan / sistem lompat untuk serangan / lompat dahsyat. Blade Base / ini juga berfungsi sebagai / Attack Ring.
+
+[CSTM 0x00868]
+EN: By installing flexible sharp / axis, it reduces the chance / of being knocked off the / stadium. Using a bearing / also maintains the endurance / lost by a flexible material.
+ID: Poros tajam fleksibel / mengurangi risiko terlempar / dari stadion. Bearing juga / menjaga stamina yang hilang / akibat bahan fleksibel.
+
+[CSTM 0x00910]
+EN: This is an all-purpose Blade / Base. It rotates in the / center of the stadium, / facing all enemies.
+ID: Blade Base serbaguna yang / berputar di tengah stadion, / menghadapi semua lawan.
+
+[CSTM 0x00970]
+EN: Equipped with a full auto- / clutch mechanism that / switches between attack and / endurance by spinning power.
+ID: Dilengkapi mekanisme full / auto-clutch yang berganti / antara serang dan stamina / sesuai kekuatan putaran.
+
+[CSTM 0x009DC]
+EN: It uses a mechanism that / improves endurance by / letting the axis slide with / grease. It is equipped with / a metal ball in the Blade / Base, allowing great defense / power.
+ID: Poros bergeser dengan gemuk / untuk menambah stamina. / Bola logam di Blade Base / memberi pertahanan kuat.
+
+[CSTM 0x00A84]
+EN: This is the ultimate / combination type Blade Base / that combines 3 axis (SG / Flat, SG Semi-flat, SG / Sharp) into one Blade Base.
+ID: Blade Base kombinasi / terhebat yang menyatukan 3 / poros (SG Flat, SG Semi- / flat, SG Sharp) dalam satu / Blade Base.
+
+[CSTM 0x00B04]
+EN: It has a large flexible grip / axis. It grips the surface / of the BeyStadium, enabling / impressive speed and attack / power.
+ID: Poros grip fleksibel besar / ini mencengkeram permukaan / BeyStadium: kecepatan dan / daya serang luar biasa.
+
+[CSTM 0x00B7C]
+EN: Equipping this part enables / left rotation. Installed / metal weight gear and metal / ball greatly improves attack / and defense power.
+ID: Part ini untuk putaran / kiri. Gear pemberat logam / dan bola logam sangat / menambah serang dan / pertahanan.
+
+[CSTM 0x00C00]
+EN: This is a system part for / right rotation. Installed / metal weight gear and metal / ball greatly improves attack / and defense power.
+ID: Part sistem untuk putaran / kanan. Gear pemberat logam / dan bola logam sangat / menambah serang dan / pertahanan.
+
+[CSTM 0x00C80]
+EN: Equipping this part enables / left rotation. Installed / metal weight gear improves / attack and defense power.
+ID: Part ini untuk putaran / kiri. Gear pemberat logam / menambah daya serang dan / pertahanan.
+
+[CSTM 0x00CEC]
+EN: This is a system part for / right rotation. Installed / metal weight gear improves / attack and defense power / simultaneously.
+ID: Part sistem untuk putaran / kanan. Gear pemberat logam / menambah daya serang dan / pertahanan sekaligus.
+
+[CSTM 0x00D64]
+EN: This weight disk balances / defense power and endurance.
+ID: Weight disk seimbang antara / bertahan dan stamina.
+
+[CSTM 0x00D9C]
+EN: It is heavy weight, and has / high defense power during / the battle.
+ID: Berat dan punya pertahanan / tinggi selama pertarungan.
+
+[CSTM 0x00DE0]
+EN: The centrifugal force / increases, which leads to / better performance in a / long battle.
+ID: Gaya sentrifugal meningkat / sehingga lebih unggul dalam / pertarungan panjang.
+
+[CSTM 0x00E38]
+EN: Its shape is made to balance / attack power, defense power / and endurance. Attack power / is improved by the sharp / wings in a backspin.
+ID: Bentuknya menyeimbangkan / serangan, pertahanan dan / stamina. Sayap tajamnya / meningkatkan serangan saat / putaran balik.
+
+[CSTM 0x00EBC]
+EN: It is a multi-balance Attack / Ring, that can become either / an attack or defense type, / depending on its spin / direction.
+ID: Attack Ring multi-seimbang / yang bisa jadi tipe serang / atau bertahan, tergantung / arah putarnya.
+
+[CSTM 0x00F34]
+EN: This attack type Attack / Ring features high balance / of power.
+ID: Attack Ring tipe serang / dengan keseimbangan daya / yang tinggi.
+
+[CSTM 0x00F74]
+EN: 3 wings on this Attack Ring / balance attack and defense / power.
+ID: 3 sayap Attack Ring ini / menyeimbangkan serangan / dan pertahanan.
+
+[CSTM 0x00FB4]
+EN: It has strong upper attack, / where 3 sharp blades throw / an enemy upward from below.
+ID: Serangan atas yang kuat, / 3 bilah tajam melempar / lawan dari bawah ke atas.
+
+[CSTM 0x01008]
+EN: This Attack Ring combines / both attack and defense. / Attack and defense switches / every time it comes in / contact with an enemy.
+ID: Attack Ring yang memadukan / serangan dan pertahanan, / berganti setiap kali / bersentuhan dengan lawan.
+
+[CSTM 0x01088]
+EN: This Attack Ring is good for / both attack and defense. It / balances both types of / power. It's cross-shaped, / and is more powerful.
+ID: Attack Ring andal untuk / serangan dan pertahanan / yang seimbang. Bentuk / silangnya membuatnya lebih / kuat.
+
+[CSTM 0x01108]
+EN: This Attack Ring exerts / stable performance towards / any enemy, with 8 defense / spikes.
+ID: Attack Ring ini stabil / menghadapi lawan mana pun / dengan 8 duri pertahanan.
+
+[CSTM 0x01160]
+EN: The shape puts its focus on / defense. It fends off / attacks upward with a right / rotation, and sideward with / a left rotation.
+ID: Bentuknya berfokus pada / pertahanan. Putaran kanan / menangkis serangan ke atas, / putaran kiri ke samping.
+
+[CSTM 0x011DC]
+EN: This part improves / durability and centrifugal / force by a blend of ABS / resin and polycarbonate.
+ID: Campuran resin ABS dan / polikarbonat menambah / ketahanan dan gaya / sentrifugal.
+
+[CSTM 0x0123C]
+EN: This is a Bit Chip in which / Knight Dranzer resides.
+ID: Bit Chip tempat / Knight Dranzer bersemayam.
+
+[CSTM 0x01270]
+EN: This is a Bit Chip in which / Kid Dragoon resides.
+ID: Bit Chip tempat / Kid Dragoon bersemayam.
+
+[CSTM 0x012A4]
+EN: This is a Bit Chip in which / Griffolyon resides.
+ID: Bit Chip tempat / Griffolyon bersemayam.
+
+[CSTM 0x012D4]
+EN: This is a Bit Chip in which / Trygle resides.
+ID: Bit Chip tempat / Trygle bersemayam.
+
+[CSTM 0x01300]
+EN: This is a Bit Chip in which / Wolborg resides.
+ID: Bit Chip tempat / Wolborg bersemayam.
+
+[CSTM 0x01330]
+EN: This is a Bit Chip in which / Galeon resides.
+ID: Bit Chip tempat / Galeon bersemayam.
+
+[CSTM 0x0135C]
+EN: This is a Bit Chip in which / Driger resides.
+ID: Bit Chip tempat / Driger bersemayam.
+
+[CSTM 0x01388]
+EN: This is a Bit Chip in which / Draciel resides.
+ID: Bit Chip tempat / Draciel bersemayam.
+
+[CSTM 0x013B8]
+EN: This is a Bit Chip in which / Dranzer resides.
+ID: Bit Chip tempat / Dranzer bersemayam.
+
+[CSTM 0x013E8]
+EN: This is a Bit Chip in which / Dragoon resides.
+ID: Bit Chip tempat / Dragoon bersemayam.
+
+[CSTM 0x01418]
+EN: Come again!
+ID: Kembali ya!
+
+[CSTM 0x01424]
+EN: You seem to have enough of / this parts. How about / choosing different parts?
+ID: Part ini sepertinya sudah / cukup. Pilih part lain?
+
+[CSTM 0x01470]
+EN: Hmm...You don't have enough / Bey points. How about / choosing different parts?
+ID: Hmm... Poin Bey-mu kurang. / Pilih part lain saja?
+
+[CSTM 0x014BC]
+EN: Thank you!
+ID: Makasih!
+
+[CSTM 0x014C8]
+EN: You want to buy that?
+ID: Mau beli yang itu?
+
+[CSTM 0x014E0]
+EN: Hello! / How can I help you?
+ID: Halo! / Mau cari apa?
+
+[CSTM 0x014FC]
+EN: This is Driger DX Launcher / for right rotation. A / ripcord called Dragon / Ripcord comes with it also.
+ID: Driger DX Launcher untuk / putaran kanan. Dilengkapi / ripcord bernama Dragon / Ripcord.
+
+[CSTM 0x01560]
+EN: This is Dranzer DX Launcher / for right rotation. A / ripcord called Dragon / Ripcord comes with it also.
+ID: Dranzer DX Launcher untuk / putaran kanan. Dilengkapi / ripcord bernama Dragon / Ripcord.
+
+[CSTM 0x015C4]
+EN: This is Dragoon DX Launcher / for left rotation. A ripcord / called Dragon Ripcord comes / with it also.
+ID: Dragoon DX Launcher untuk / putaran kiri. Dilengkapi / ripcord bernama Dragon / Ripcord.
+
+[CSTM 0x01628]
+EN: This is Catapult Grip for / right rotation. A ripcord / comes with it also.
+ID: Catapult Grip untuk putaran / kanan. Ripcord sudah / termasuk.
+
+[CSTM 0x01670]
+EN: This is Sniper Grip for / right rotation. A ripcord / comes with it also.
+ID: Sniper Grip untuk putaran / kanan. Ripcord sudah / termasuk.
+
+[CSTM 0x016B8]
+EN: This is Reverse Launcher / Grip for left rotation. / A ripcord called Dragon / Ripcord comes with it also.
+ID: Reverse Launcher Grip untuk / putaran kiri. Dilengkapi / ripcord bernama Dragon / Ripcord.
+
+[CSTM 0x01720]
+EN: This is Ez Launcher Grip for / right rotation. A ripcord / comes with it also.
+ID: Ez Launcher Grip untuk / putaran kanan. Ripcord / sudah termasuk.
+
+[CSTM 0x0176C]
+EN: This is Reverse Launcher for / left rotation. A ripcord / called Dragon Ripcord comes / with it also.
+ID: Reverse Launcher untuk / putaran kiri. Dilengkapi / ripcord bernama Dragon / Ripcord.
+
+[CSTM 0x017CC]
+EN: This is Ez Launcher for / right rotation. A ripcord / comes with it also.
+ID: Ez Launcher untuk putaran / kanan. Ripcord sudah / termasuk.
+
+[CSTM 0x01814]
+EN: This is Spiral Change Base, / a Blade Base for Dranzer S.
+ID: Spiral Change Base, Blade / Base untuk Dranzer S.
+
+[CSTM 0x0184C]
+EN: This is Storm Grip Base, / a Blade Base for Dragoon S.
+ID: Storm Grip Base, Blade / Base untuk Dragoon S.
+
+[CSTM 0x01884]
+EN: This is Griffolyon Base, / a Blade Base for / Griffolyon.
+ID: Griffolyon Base, Blade Base / untuk Griffolyon.
+
+[CSTM 0x018BC]
+EN: This is Jumping Base, / a Blade Base for Trygle.
+ID: Jumping Base, Blade Base / untuk Trygle.
+
+[CSTM 0x018EC]
+EN: This is Defense Grip Base, / a Blade Base for Wolborg 2.
+ID: Defense Grip Base, Blade / Base untuk Wolborg 2.
+
+[CSTM 0x01924]
+EN: This is SG Semi-Flat Base, / a Blade Base for Galeon.
+ID: SG Semi-Flat Base, Blade / Base untuk Galeon.
+
+[CSTM 0x01958]
+EN: This is Full Auto-Clutch / Base, a Blade Base for / Driger F.
+ID: Full Auto-Clutch Base, / Blade Base untuk Driger F.
+
+[CSTM 0x01994]
+EN: This is Fortress Base, / a Blade Base for Draciel F.
+ID: Fortress Base, Blade Base / untuk Draciel F.
+
+[CSTM 0x019C8]
+EN: This is Flame Change Base, / a Blade Base for Dranzer F.
+ID: Flame Change Base, Blade / Base untuk Dranzer F.
+
+[CSTM 0x01A00]
+EN: This is Phantom Grip Base, / a Blade Base for Dragoon F.
+ID: Phantom Grip Base, Blade / Base untuk Dragoon F.
+
+[CSTM 0x01A38]
+EN: Left Spin Gear Metal Ball / is a Spin Gear for left / rotation. It has a metal / ball as well. But note that / it cannot be used with some / Blade Bases.
+ID: Left Spin Gear Metal Ball / adalah Spin Gear putaran / kiri dengan bola logam. / Tidak bisa dipakai pada / beberapa Blade Base.
+
+[CSTM 0x01AC8]
+EN: Right Spin Gear Metal Ball / is a Spin Gear for right / rotation. It has a metal / ball as well. But note that / it cannot be used with some / Blade Bases.
+ID: Right Spin Gear Metal Ball / adalah Spin Gear putaran / kanan dengan bola logam. / Tidak bisa dipakai pada / beberapa Blade Base.
+
+[CSTM 0x01B5C]
+EN: Left Spin Gear is a Spin / Gear for left rotation. / It cannot be used with / some Blade Bases.
+ID: Left Spin Gear: Spin Gear / putaran kiri. Tidak bisa / dipakai pada beberapa / Blade Base.
+
+[CSTM 0x01BB8]
+EN: Right Spin Gear is a Spin / Gear for right rotation. / It cannot be used with / some Blade Bases.
+ID: Right Spin Gear: Spin Gear / putaran kanan. Tidak bisa / dipakai pada beberapa / Blade Base.
+
+[CSTM 0x01C14]
+EN: This is a Weight Disk / called Eight Balance.
+ID: Weight Disk bernama / Eight Balance.
+
+[CSTM 0x01C40]
+EN: This is a Weight Disk / called Eight Heavy.
+ID: Weight Disk bernama / Eight Heavy.
+
+[CSTM 0x01C6C]
+EN: This is a Weight Disk / called Eight Wide.
+ID: Weight Disk bernama / Eight Wide.
+
+[CSTM 0x01C98]
+EN: This is Double Wing, an / Attack Ring for Dranzer S. 
+ID: Double Wing, Attack Ring / untuk Dranzer S.
+
+[CSTM 0x01CCC]
+EN: This is Reverse Dragon, an / Attack Ring for Dragoon S. 
+ID: Reverse Dragon, Attack Ring / untuk Dragoon S.
+
+[CSTM 0x01D04]
+EN: This is Cross Griffon, an / Attack Ring for Griffolyon. 
+ID: Cross Griffon, Attack Ring / untuk Griffolyon.
+
+[CSTM 0x01D3C]
+EN: This is Triple Wing, an / Attack Ring for Trygle. 
+ID: Triple Wing, Attack Ring / untuk Trygle.
+
+[CSTM 0x01D70]
+EN: This is Upper Wolf, an / Attack Ring for Wolborg 2. 
+ID: Upper Wolf, Attack Ring / untuk Wolborg 2.
+
+[CSTM 0x01DA4]
+EN: This is Roaring Lion, an / Attack Ring for Galeon F. 
+ID: Roaring Lion, Attack Ring / untuk Galeon F.
+
+[CSTM 0x01DD8]
+EN: This is Cross Fang, an / Attack Ring for Driger F.
+ID: Cross Fang, Attack Ring / untuk Driger F.
+
+[CSTM 0x01E0C]
+EN: This is Eight Spikes, an / Attack Ring for Draciel F.
+ID: Eight Spikes, Attack Ring / untuk Draciel F.
+
+[CSTM 0x01E40]
+EN: This is Flame Wing, an / Attack Ring for Dranzer F.
+ID: Flame Wing, Attack Ring / untuk Dranzer F.
+
+[CSTM 0x01E74]
+EN: This is Dual Dragon, an / Attack Ring for Dragoon F.
+ID: Dual Dragon, Attack Ring / untuk Dragoon F.
+
+[CSTM 0x01EA8]
+EN: This is a Knight Dranzer / Bit Chip.
+ID: Bit Chip Knight Dranzer.
+
+[CSTM 0x01ECC]
+EN: This is a Kid Dragoon / Bit Chip.
+ID: Bit Chip Kid Dragoon.
+
+[CSTM 0x01EEC]
+EN: This is a Griffolyon / Bit Chip.
+ID: Bit Chip Griffolyon.
+
+[CSTM 0x01F0C]
+EN: This is a Trygle Bit Chip.
+ID: Bit Chip Trygle.
+
+[CSTM 0x01F28]
+EN: This is a Wolborg Bit Chip.
+ID: Bit Chip Wolborg.
+
+[CSTM 0x01F44]
+EN: This is a Galeon Bit Chip.
+ID: Bit Chip Galeon.
+
+[CSTM 0x01F60]
+EN: This is a Driger Bit Chip.
+ID: Bit Chip Driger.
+
+[CSTM 0x01F7C]
+EN: This is a Draciel Bit Chip.
+ID: Bit Chip Draciel.
+
+[CSTM 0x01F98]
+EN: This is a Dranzer Bit Chip.
+ID: Bit Chip Dranzer.
+
+[CSTM 0x01FB4]
+EN: This is a Dragoon Bit Chip.
+ID: Bit Chip Dragoon.
+
+[CSTM 0x01FD0]
+EN: This is the vibration / status. Use the left and / right directional buttons / on the controller to switch / ON and OFF.
+ID: Ini status getar. Gunakan / tombol arah kiri dan kanan / di controller untuk / menyalakan (ON) atau / mematikan (OFF).
+
+[CSTM 0x02044]
+EN: This is the power of the / Holy Beast. It was difficult / to analyze.
+ID: Ini kekuatan Holy Beast. / Sulit untuk dianalisis.
+
+[CSTM 0x02088]
+EN: This is your current power.
+ID: Ini kekuatanmu saat ini.
+
+[CSTM 0x020A4]
+EN: This is your Beyblade / performance.
+ID: Ini performa Beyblade-mu.
+
+[CSTM 0x020C8]
+EN: This is the current status / of the combination of parts.
+ID: Ini status kombinasi part / saat ini.
+
+[CSTM 0x02100]
+EN: The Beyblade has been / changed.
+ID: Beyblade telah diganti.
+
+[CSTM 0x02120]
+EN: Necessary parts are not set. / Do you want to take it apart / and make it unregistered?
+ID: Part yang diperlukan belum / terpasang. Bongkar dan / batalkan pendaftaran?
+
+[CSTM 0x02174]
+EN: The name for the Beyblade is / not registered. Please pick / a name.
+ID: Nama Beyblade belum / didaftarkan. Silakan pilih / nama.
+
+[CSTM 0x021B8]
+EN: The Spin Gear and the / Launcher do not have the / same spin direction.
+ID: Arah putar Spin Gear dan / Launcher tidak sama.
+
+[CSTM 0x021FC]
+EN: You still have some parts to / select. Please finish / building the Beyblade.
+ID: Masih ada part yang belum / dipilih. Selesaikan dulu / perakitan Beyblade-nya.
+
+[CSTM 0x02248]
+EN: OK. Customized Beyblade will / be set to the folder.
+ID: Oke. Beyblade rakitanmu / akan disimpan ke folder.
+
+[CSTM 0x0227C]
+EN: No parts are selected, / therefore, nothing will be / registered to the folder.
+ID: Belum ada part dipilih, / jadi tidak ada yang / didaftarkan ke folder.
+
+[CSTM 0x022C8]
+EN: You picked that folder?
+ID: Pilih folder itu?
+
+[CSTM 0x022E0]
+EN: Now, select the folder / where the Beyblade you wish / to customize is set to.
+ID: Sekarang pilih folder / tempat Beyblade yang ingin / kamu rakit.
+
+[CSTM 0x0232C]
+EN: The Beyblade has been taken / apart, and is now / unregistered.
+ID: Beyblade sudah dibongkar / dan tidak terdaftar lagi.
+
+[CSTM 0x02368]
+EN: You will return to Customize / without taking it apart.
+ID: Kembali ke Customize tanpa / membongkarnya.
+
+[CSTM 0x023A0]
+EN: None of the Beyblades has / all the parts. Please finish / building at least one.
+ID: Belum ada Beyblade dengan / part lengkap. Selesaikan / minimal satu.
+
+[CSTM 0x023F0]
+EN: No parts selected. / End customizing without / registering to the folder.
+ID: Tidak ada part dipilih. / Akhiri Customize tanpa / mendaftar ke folder.
+
+[CSTM 0x02438]
+EN: Do you want to end / Customize?
+ID: Akhiri Customize?
+
+[CSTM 0x02458]
+EN: Unregistered
+ID: Belum Daftar
+
+[CSTM 0x02784]
+EN: I'm sorry, but you cannot / use that name.
+ID: Maaf, kamu tidak bisa / memakai nama itu.
+
+[CSTM 0x027B0]
+EN: OK. The Beyblade will be / registered by that name.
+ID: Oke. Beyblade akan / didaftar dengan nama itu.
+
+[CSTM 0x027E4]
+EN: What name will you pick for / the Beyblade?
+ID: Mau kasih nama apa untuk / Beyblade-mu?
+
+[CSTM 0x02814]
+EN: Unregistered
+ID: Belum Daftar
+
+
+######## BTLBIN.GRP
+[BTLB 0x001D8]
+EN: OH! Nooo!
+ID: AH! Tidak!
+
+[BTLB 0x001E4]
+EN: Ooops!
+ID: Aduh!
+
+[BTLB 0x001F0]
+EN: Oh, no!
+ID: Waduh!
+
+[BTLB 0x001F8]
+EN: Tougher than expected
+ID: Lebih kuat dari dugaan
+
+[BTLB 0x00210]
+EN: Shoot!
+ID: Sial!
+
+[BTLB 0x00218]
+EN: Oh my gosh!!
+ID: Astaga!!
+
+[BTLB 0x00228]
+EN: Gosh!
+ID: Astaga!
+
+[BTLB 0x00230]
+EN: What?
+ID: Apa?!
+
+[BTLB 0x00238]
+EN: Oops!
+ID: Ups!
+
+[BTLB 0x00248]
+EN: Man!
+ID: Duh!
+
+[BTLB 0x00310]
+EN: Whaaa!
+ID: Waaah!
+
+[BTLB 0x00318]
+EN: Here!
+ID: Nih!
+
+[BTLB 0x00320]
+EN: Here it goes!
+ID: Rasakan ini!
+
+[BTLB 0x00330]
+EN: Hah!
+ID: Hah!
+
+[BTLB 0x00338]
+EN: Come on!
+ID: Ayo!
+
+[BTLB 0x0034C]
+EN: Yoo-hoo!
+ID: Yuhuu!
+
+[BTLB 0x00358]
+EN: Spin!
+ID: Putar!
+
+[BTLB 0x00360]
+EN: C'mon!
+ID: Ayo!
+
+[BTLB 0x00368]
+EN: Goooo!
+ID: Majuuu!
+
+[BTLB 0x00370]
+EN: Come on...
+ID: Ayolah...
+
+[BTLB 0x0037C]
+EN: Come on!!
+ID: Ayo!!
+
+[BTLB 0x003CC]
+EN: Hmm...you're pretty good...
+ID: Hmm... kamu lumayan juga...
+
+[BTLB 0x003E8]
+EN: You see!
+ID: Nah, lihat!
+
+[BTLB 0x003F4]
+EN: I don't know why I lost
+ID: Kok aku bisa kalah ya?
+
+[BTLB 0x0040C]
+EN: I knew I was gonna win.
+ID: Sudah kuduga aku menang
+
+[BTLB 0x00424]
+EN: I can't believe I lost...
+ID: Tak kusangka aku kalah...
+
+[BTLB 0x00440]
+EN: As expected!
+ID: Sesuai dugaan!
+
+[BTLB 0x00450]
+EN: I have to work harder...
+ID: Harus lebih giat lagi...
+
+[BTLB 0x0046C]
+EN: I'll do better next time...
+ID: Lain kali lebih baik...
+
+[BTLB 0x00488]
+EN: Yes!
+ID: Yes!
+
+[BTLB 0x00490]
+EN: I'd like to fight you again.
+ID: Aku ingin melawanmu lagi.
+
+[BTLB 0x004B0]
+EN: Your level is far below me.
+ID: Levelmu jauh di bawahku.
+
+[BTLB 0x004CC]
+EN: Shoot! What am I doing?
+ID: Sial! Apa yang kubuat?
+
+[BTLB 0x004E4]
+EN: You can't defeat me!
+ID: Kau takkan bisa menang!
+
+[BTLB 0x004FC]
+EN: I can't believe I lost to you!
+ID: Tak kusangka kalah darimu!
+
+[BTLB 0x0051C]
+EN: You can't beat me!
+ID: Kau takkan menang!
+
+[BTLB 0x00530]
+EN: Oh, this is the world-level...
+ID: Oh, ini level dunia...
+
+[BTLB 0x00550]
+EN: You see the real power of / the White Tigers!
+ID: Lihat kekuatan sejati / White Tigers!
+
+[BTLB 0x0057C]
+EN: I need to work harder
+ID: Aku harus lebih giat
+
+[BTLB 0x00594]
+EN: I win
+ID: Menang
+
+[BTLB 0x0059C]
+EN: You're good!
+ID: Kamu hebat!
+
+[BTLB 0x005AC]
+EN: Nice fight!
+ID: Seru nih!
+
+[BTLB 0x005B8]
+EN: You're pretty good
+ID: Lumayan juga kamu
+
+[BTLB 0x005CC]
+EN: You thought you could win?
+ID: Kau pikir bisa menang?
+
+[BTLB 0x005E8]
+EN: Oh, my...
+ID: Ya ampun...
+
+[BTLB 0x005F4]
+EN: I win!
+ID: Menang!
+
+[BTLB 0x00668]
+EN: This is my power!
+ID: Inilah kekuatanku!
+
+[BTLB 0x0067C]
+EN: Oh, no!
+ID: Waduh!
+
+[BTLB 0x00684]
+EN: A special blow!
+ID: Pukulan khusus!
+
+[BTLB 0x006A0]
+EN: Tougher than expected
+ID: Lebih kuat dari dugaan
+
+[BTLB 0x006B8]
+EN: You're no match!
+ID: Kau bukan lawanku!
+
+[BTLB 0x006D8]
+EN: Shoot!
+ID: Sial!
+
+[BTLB 0x006E0]
+EN: This will be your nightmare!
+ID: Ini jadi mimpi burukmu!
+
+[BTLB 0x00708]
+EN: Oh my gosh!!
+ID: Astaga!!
+
+[BTLB 0x00718]
+EN: Jumping attack!!
+ID: Serangan lompat!!
+
+[BTLB 0x00734]
+EN: Gosh!
+ID: Astaga!
+
+[BTLB 0x0073C]
+EN: Fire!
+ID: Api!
+
+[BTLB 0x0074C]
+EN: What?
+ID: Apa?!
+
+[BTLB 0x00754]
+EN: This is it!
+ID: Inilah dia!
+
+[BTLB 0x0076C]
+EN: Oops!
+ID: Ups!
+
+[BTLB 0x00774]
+EN: Attack!
+ID: Serang!
+
+[BTLB 0x007A4]
+EN: Man!
+ID: Duh!
+
+[BTLB 0x007B0]
+EN: Broken into pieces!
+ID: Hancur berkeping!
+
+[BTLB 0x007D0]
+EN: Out of Stadium!
+ID: Keluar stadion!
+
+[BTLB 0x007E0]
+EN: Who is the winner?
+ID: Siapa pemenangnya?
+
+[BTLB 0x007F4]
+EN: Wow!
+ID: Wow!
+
+[BTLB 0x007FC]
+EN: Well
+ID: Nah
+
+[BTLB 0x00804]
+EN: What's happening here!?
+ID: Apa yang terjadi!?
+
+[BTLB 0x0081C]
+EN: The battle's in / the final phase.
+ID: Pertarungan di / babak akhir.
+
+[BTLB 0x00840]
+EN: OH MY Goodness!
+ID: YA AMPUN!!
+
+[BTLB 0x00850]
+EN: Unbelievable!
+ID: Luar biasa!
+
+[BTLB 0x00860]
+EN: A Big Hit!
+ID: Telak!
+
+[BTLB 0x0086C]
+EN: The opponent's losing / spinning power...
+ID: Lawan kehilangan / tenaga putaran...
+
+[BTLB 0x00894]
+EN: What a weak launch!
+ID: Peluncuran lemah!
+
+[BTLB 0x008A8]
+EN: What a great launch!
+ID: Peluncuran hebat!
+
+[BTLB 0x008C0]
+EN: Rip!
+ID: Tarik!
+
+[BTLB 0x008C8]
+EN: Let it
+ID: Lepas!
+
+[BTLB 0x008DC]
+EN: Bladers, are you done with / your final adjustments?
+ID: Para Blader, sudah selesai / menyetel terakhir?
+
+[BTLB 0x00910]
+EN: The heat wave is cutting up / the enemy!
+ID: Gelombang panas / menghancurkan lawan!
+
+[BTLB 0x00938]
+EN: The spin of the Bey / generated a tornado!
+ID: Putaran Bey menciptakan / sebuah tornado!
+
+[BTLB 0x00964]
+EN: The shock wave became / a knife!
+ID: Gelombang kejut jadi / pisau!
+
+[BTLB 0x00984]
+EN: Oh! Attacking with its talons!
+ID: Oh! Menyerang dengan cakar!
+
+[BTLB 0x009A4]
+EN: What is this cold air!
+ID: Hawa dingin apa ini!
+
+[BTLB 0x009BC]
+EN: It's a thunder attack!
+ID: Serangan petir!
+
+[BTLB 0x009D4]
+EN: Unbelievable speed!
+ID: Cepat luar biasa!
+
+[BTLB 0x009E8]
+EN: It's repelling all, like / a steel wall!
+ID: Menangkis semuanya / bagai tembok baja!
+
+[BTLB 0x00A10]
+EN: Wow! / Flaming shock wave attack!!
+ID: Wow! / Serangan gelombang api!!
+
+[BTLB 0x00A34]
+EN: Attacked by / countless Dragoons!
+ID: Diserang Dragoon / tak terhitung!
+
+[BTLB 0x00A54]
+EN: Select a Beyblade to use for / the battle.
+ID: Pilih Beyblade untuk / dipakai bertarung.
+
